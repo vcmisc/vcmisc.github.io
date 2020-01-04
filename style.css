@@ -1,0 +1,36 @@
+@import "reset.css";
+
+html, body {
+    font-family: "Helvetica Neue", Helvetica, "Open Sans", Arial, sans-serif;
+    margin: 2em auto;
+    max-width: 35em;
+    color: #f82148;
+    height: 100%;
+    background: white;
+}
+
+.main{
+    margin: auto;
+    text-align: center;
+    height: 100%;
+}
+
+h1 {
+    font-size: 1.4em;
+    display: inline-block;
+    padding: 10px 50px 0px 50px;
+    margin-bottom: 30px;
+}
+
+a {
+    padding-bottom: 2px;
+    text-decoration: none;
+    border-bottom: #f82148 1px solid; 
+    color: #f82148;
+}
+
+.contents {
+    display: inline-block;
+    padding: 0px 10px 0px 10px;
+    margin-bottom: 3em;
+}
